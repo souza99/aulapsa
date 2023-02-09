@@ -1,0 +1,29 @@
+INTRODUÇÃO : Avaliações podem ter até 2 perdas de proso
+
+Plano de ensino:
+    carga horária -> 160/133
+
+EMENTA: 
+    Principios e fundamentos de projeto de software orientado a objeto(abstração, acoplamento.coesão, encapsulamento, SOLID, etc)
+
+    Padroes de projeto
+    Projeto e implementação de software em diferentes paradigmas de programação
+
+
+Ano letivo 2023
+ -1° tri 07/02 a 19/05 (69 dias letivos)
+ -2° tri 22/05 a 06/09 (66 dias letivos)
+ -3° tri 11/09 a 20/12
+
+sabado letivo :
+    17/06
+    02/09
+
+Contato:
+    UNICAMENTO -> Email
+    CHAT -> MOODLE
+
+
+Avaliação programação
+segundo 13:00 as 18:00
+
