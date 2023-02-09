@@ -24,6 +24,23 @@ Contato:
     CHAT -> MOODLE
 
 
-Avaliação programação
+Atendimento
 segundo 13:00 as 18:00
+
+
+AVALIAÇÕES: 
+
+-Avaliação 04/05
+    Avaliação pratica sobre os conceitos abordados
+    00 -> individual e sem consulta
+    -Entrega do projeto de software.
+
+-Avaliação 11/05
+    -Fexamento Diário de aula
+    -Retomada conteúdo
+
+-Avaliação 18/05
+    -Avaliação dissertativa de todo conteúdo
+    00 -> Prova prática e teórica
+    00 -> Individual e sem consulta
 
