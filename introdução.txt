@@ -44,3 +44,6 @@ AVALIAÇÕES:
     00 -> Prova prática e teórica
     00 -> Individual e sem consulta
 
+
+
+MVC não tem entidade e sim DAO, entidade é do banco de dados
